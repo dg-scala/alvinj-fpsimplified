@@ -4,7 +4,7 @@ package functional_objects
 case class Pizza (
     crustSize: CrustSize,
     crustType: CrustType,
-    val toppings: Seq[Topping]
+    toppings: Seq[Topping]
 ) {
     // the operations on the data model
 
