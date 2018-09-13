@@ -26,6 +26,7 @@ lazy val FpUpdateAsYouCopy                      = project
 lazy val HandlingStateManually                  = project
 lazy val IOMonad                                = project
 lazy val IOMonadHelloWorld                      = project
+lazy val PizzaPosFpFunctionalObjectsStyle       = project
 lazy val PizzaPosFpModularStyle                 = project
 lazy val PizzaPosOopStyle                       = project
 lazy val RecursiveSum                           = project
