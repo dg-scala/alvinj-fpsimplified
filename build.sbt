@@ -55,6 +55,7 @@ lazy val subprojects = Seq(
     HandlingStateManually,
     IOMonad,
     IOMonadHelloWorld,
+    PizzaPosFpFunctionalObjectsStyle,
     PizzaPosFpModularStyle,
     PizzaPosOopStyle,
     RecursiveSum,
